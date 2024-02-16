@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="enter_your_name">Enter your name\n</string>
+    <string name="enter_your_College_name">enter your college name</string>
+    <string name="Enter_something_about_your_college">enter something about your college</string>
+</resources>
